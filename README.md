@@ -1,3 +1,3 @@
 my first project using python
-copied from "Bro Code" on youtube
+copied from "RubenOrtega" on youtube
 very helpful im beginning to understand the basics
